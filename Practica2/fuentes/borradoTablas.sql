@@ -1,0 +1,9 @@
+DROP TABLE Vuelos;
+DROP TABLE Aeropuerto;
+DROP TABLE Aerolinea;
+DROP TABLE Operadora;
+DROP TABLE Fecha;
+DROP TABLE Hora;
+DROP TABLE Avion;
+DROP TABLE Pasajero;
+DROP TABLE Pasajeros_Vuelo_Bridge;
